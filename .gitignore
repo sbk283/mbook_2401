@@ -199,4 +199,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+### CUSTOM ###
+application-secret.yml
+db-dev.mv.db
+db-dev.trace.db
+HELP.md
 # End of https://www.toptal.com/developers/gitignore/api/macos,java,intellij,windows
